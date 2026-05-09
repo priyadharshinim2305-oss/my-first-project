@@ -1,2 +1,2 @@
-# my-first-project
+# university website
 My html, CSS,  Javascript
